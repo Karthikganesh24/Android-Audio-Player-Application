@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![WhatsApp Image 2026-11-24 at 9.22.48 AM.jpeg](../Output/WhatsApp%20Image%202026-11-24%20at%209.22.48%20AM.jpeg)
+![WhatsApp Image 2026-11-24 at 9.22.48 AM.jpeg](Output/WhatsApp%20Image%202026-11-24%20at%209.22.48%20AM.jpeg)
 
 
 
